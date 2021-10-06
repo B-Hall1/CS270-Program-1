@@ -1,4 +1,4 @@
-Blair Hall		blair.hall@uky.edu		January 25, 2018
+Blair Hall				January 25, 2018
 README.txt, Makefile, kstring.h, kstring-stubs.c, test-abbrev.c, test-full.c
 Running Instructions: To compile type make, To run type ./test-abbrev or ./test-full,
 Implementation Notes: I used malloc primarily to allocate memory, I also used memcpy and memset, to check for errors I check to see if malloc returned Null 
